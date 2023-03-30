@@ -54,7 +54,7 @@
 					</div>
 					<div> <span class="bottom-calc__title">Количество листов:</span>
 						<span class="bottom-calc__totalsquere">
-							{{ this.sectionQuantity }} шт
+							{{ this.sectionQuantity }} шт.
 						</span>
 					</div>
 					<div> <span class="bottom-calc__title">Стоимость листов:</span>
@@ -64,7 +64,7 @@
 					</div>
 					<div> <span class="bottom-calc__title">Саморезов:</span>
 						<span class="bottom-calc__totalsquere">
-							{{ this.totalScrew }} шт
+							{{ this.totalScrew }} шт.
 						</span>
 					</div>
 				</div>
