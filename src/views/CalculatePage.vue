@@ -14,7 +14,7 @@
 					</select>
 
 					<h6 class="top-calc__title">ТРУБЫ:</h6>
-					<select v-model="sectionPipe" @change="pipeLength" class="top-calc__material">
+					<select v-model="sectionPipe" class="top-calc__material">
 						<option disabled value="">Выберите из списка</option>
 						<option class="top-calc__material-option" v-for="material in pipeList" :value="material"
 							:key="material.material">
